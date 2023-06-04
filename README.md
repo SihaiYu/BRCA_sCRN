@@ -14,7 +14,7 @@ After successfully installing the sCRNs Python simulator as required, we just ne
 
 DEMO_Vedios
 ============================================================
-Token Fluctuation
+The DEMO Vedios could be found in the Issues.
 
 https://github.com/SihaiYu/BRCA_sCRN/issues/1#issue-1740446209
 
