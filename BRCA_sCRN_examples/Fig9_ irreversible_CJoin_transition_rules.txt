@@ -1,0 +1,18 @@
+# Logic circuit rule set optimized for readability and, to a lesser extent,
+#   compressed physical layout.
+# Gates lock during computation, allowing sequential gate logic.
+#
+# A 46-rule, compressed variant using only NOR gates is included in
+# Box5-logic_circuit_transition_rules_compressed.txt
+
+### WIRE RULES
+### 1 rules, 2 species
+# Move
+(1) A + B -> B + A
+(1) C + D -> D + C
+(1) B + E -> A + F
+(1) A + F -> B + E
+(1) D + E -> C + G
+(1) C + G -> D + E
+(1) D + A -> C + B
+(1) F + F -> G + G
