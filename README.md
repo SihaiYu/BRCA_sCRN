@@ -7,7 +7,10 @@ The Python simulator for sCRNs is developed by Samuel Clamons, et. al., and you 
 
 Simulation of Binary Reaction Cellular Automaton (BRCA) on surface Chemical Reaction Networks (sCRNs)
 ============================================================
-This package contains the configuration files related to the Sihai Yu, Wenli Xu, Jia Lee and Teijiro Isokawa "A Cellular Automaton Approach for Efficient Computing on Surface Chemical Reaction Networks".
+[BRCA_sCRN_examples](https://github.com/SihaiYu/BRCA_sCRN/tree/main/BRCA_sCRN_examples) contains the configuration files related to the Sihai Yu, Wenli Xu, Jia Lee and Teijiro Isokawa "A Cellular Automaton Approach for Efficient Computing on Surface Chemical Reaction Networks".
 
-After successfully installing the sCRNs Python simulator as required, place these configuration files along with [run_this.py](https://github.com/SihaiYu/BRCA_sCRN/blob/main/BRCA_sCRN_examples/run_this.py) in the same folder and run it.
+After successfully installing the sCRNs Python simulator as required, we just need to run [run_this.py](https://github.com/SihaiYu/BRCA_sCRN/blob/main/BRCA_sCRN_examples/run_this.py) , the corresponding structure will be displayed.
+
+
+
 
