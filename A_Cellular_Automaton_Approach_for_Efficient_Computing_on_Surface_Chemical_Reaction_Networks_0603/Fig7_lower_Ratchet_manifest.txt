@@ -1,0 +1,28 @@
+# No-sync counter circuit test with 6 bits.
+
+pixels_per_node    = 30
+speedup_factor     = 1
+debug              = False
+rng_seed           = 4
+max_duration       = 1000
+frame_capture_rate = 2
+node_display       = Color
+
+!START_TRANSITION_RULES
+!INCLUDE Fig7_lower_Ratchet_transition_rules.txt
+!END_TRANSITION_RULESS
+
+!START_COLORMAP
+!INCLUDE Fig7_lower_Ratchet_colormap.txt
+!END_COLORMAP
+
+!START_INIT_STATE
+0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,C,B,0,0,0,0,0,0
+0,0,0,B,A,E,E,C,C,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0
+!END_INIT_STATES
