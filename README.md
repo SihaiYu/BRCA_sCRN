@@ -16,7 +16,7 @@ DEMO_Vedios
 ============================================================
 Token Fluctuation
 
-https://github.com/SihaiYu/BRCA_sCRN/blob/main/DEMO_Video/Fig3_token_fluctuation.mp4
+![Fig3_token_fluctuation](https://github.com/SihaiYu/BRCA_sCRN/blob/main/DEMO_Video/Fig3_token_fluctuation.mp4)
 
 
 
