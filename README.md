@@ -10,3 +10,4 @@ Simulation of Binary Reaction Cellular Automaton (BRCA) on surface Chemical Reac
 This package contains the configuration files related to the Sihai Yu, Wenli Xu, Jia Lee and Teijiro Isokawa "A Cellular Automaton Approach for Efficient Computing on Surface Chemical Reaction Networks".
 
 After successfully installing the sCRNs Python simulator as required, place these configuration files along with "run_this.py" in the same folder and run it.
+
