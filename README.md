@@ -12,5 +12,12 @@ Simulation of Binary Reaction Cellular Automaton (BRCA) on surface Chemical Reac
 After successfully installing the sCRNs Python simulator as required, we just need to run [run_this.py](https://github.com/SihaiYu/BRCA_sCRN/blob/main/BRCA_sCRN_examples/run_this.py) , the corresponding structure will be displayed.
 
 
+DEMO_Vedios
+============================================================
+Token Fluctuation
+
+https://github.com/SihaiYu/BRCA_sCRN/blob/main/DEMO_Video/Fig3_token_fluctuation.mp4
+
+
 
 
