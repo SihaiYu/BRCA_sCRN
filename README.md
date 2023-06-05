@@ -14,7 +14,7 @@ After successfully installing the sCRNs Python simulator as required, we just ne
 
 DEMO_Vedios
 ============================================================
-The DEMO Vedios could be found in the ["DEMO_Vedios"](https://github.com/SihaiYu/BRCA_sCRN/issues/1#issue-1740446209).
+The DEMO Vedios could be found in ["DEMO_Vedios"](https://github.com/SihaiYu/BRCA_sCRN/issues/1#issue-1740446209).
 
 
 
